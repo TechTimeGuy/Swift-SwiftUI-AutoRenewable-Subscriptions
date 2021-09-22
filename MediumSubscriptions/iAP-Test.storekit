@@ -1,0 +1,93 @@
+{
+  "products" : [
+
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "BD411851",
+      "localizations" : [
+
+      ],
+      "name" : "Auto-Renewable",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "displayPrice" : "4.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "E20CBEC0",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "",
+              "displayName" : "3 Months",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "monthly.productId",
+          "recurringSubscriptionPeriod" : "P3M",
+          "referenceName" : "3 Months",
+          "subscriptionGroupID" : "BD411851",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "displayPrice" : "9.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "F9A75829",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "",
+              "displayName" : "6 Months",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "six.months.productId",
+          "recurringSubscriptionPeriod" : "P6M",
+          "referenceName" : "6 Months",
+          "subscriptionGroupID" : "BD411851",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "displayPrice" : "12.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "4021826E",
+          "introductoryOffer" : {
+            "internalID" : "FB01F30A",
+            "paymentMode" : "free",
+            "subscriptionPeriod" : "P3D"
+          },
+          "localizations" : [
+            {
+              "description" : "",
+              "displayName" : "1 Year",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "yearly.productId",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "1 Year",
+          "subscriptionGroupID" : "BD411851",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 0
+  }
+}
